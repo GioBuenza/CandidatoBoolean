@@ -1,0 +1,70 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+   background-size: cover;
+}
+
+.logo{
+  width: 150px;
+}
+
+.logo-text{
+  color: #00ff00;
+}
+header{
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(130, 121, 110, 0.9);
+    margin: 0 0 1% 1%;
+    padding: 1%;
+    width: 67%;
+}
+
+.bottoni
+{
+  background-color: #00ff00;
+  border-style:solid;
+  border-color:#00ff00;
+  border-width:6px;
+  border-radius: 1px;
+}
+.Gino1 {
+  list-style: square inside;
+  color: white;
+}
+.Gino2 {
+  color: white;
+}
+
+input[type=text] {
+  background-color: #ff8c00;
+  color: black;
+  width: 30%;
+  height: 20px;
+  border-radius: 6px;
+}
+
+input[type=text2] {
+  background-color: #00ff00;
+  color: black;
+  width: 48%;
+  height: 20px;
+  border-radius: 6px;
+}
+
+input[type=text3] {
+  background-color: #8b0000;
+  color: white;
+  width: 15%;
+  height: 20px;
+  border-radius: 6px;
+}
+
+body3{
+  position: absolute;
+  top: 280px; left: 300px;
+  color: black;
+}
